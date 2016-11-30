@@ -1,7 +1,16 @@
-# main links links
+# main links
 main:
   - title: "Yazılar"
     url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
   - title: "İpuçları"
     url: /
+
+  - title: "Posts"
+    url: /year-archive/
+
+  - title: "Sample Collections"
+    url: /collection-archive/
+
+  - title: "Sitemap"
+    url: /sitemap/
